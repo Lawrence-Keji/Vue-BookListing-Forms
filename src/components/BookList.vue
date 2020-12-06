@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import BookForm from "lodash";
+import _ from "lodash";
 import BookItem from "./BookItem";
 import BookForm from "./BookForm";
 
